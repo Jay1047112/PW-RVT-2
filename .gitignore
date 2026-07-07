@@ -1,0 +1,7 @@
+MCP_RS422/
+**/__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/

@@ -1,0 +1,69 @@
+{
+  "input_csv": "C:\\Users\\jay36\\Documents\\RS422_project\\pw_rvt_raw_data_with_temp_20260409_163144.csv",
+  "sample_rate": 7812,
+  "num_samples": 78120,
+  "duration_sec": 10.0,
+  "requested_duration_sec": 10.0,
+  "features": {
+    "X": {
+      "RMS": 1.5,
+      "Skewness": 0.2,
+      "Kurtosis": 5.9,
+      "PeakToPeak": 1.7,
+      "SRA": 1.5,
+      "CrestFactor": 1.5,
+      "ShapeFactor": 1.0,
+      "ImpulseFactor": 1.6,
+      "ClearanceFactor": 1.6,
+      "TotalEnergy": 0.0,
+      "BandEnergy_0_500": 0.0,
+      "BandEnergy_500_1000": 0.0,
+      "BandEnergy_1000_2000": 0.0,
+      "FreqCentroid": 632.9,
+      "PeakAmp": 0.1,
+      "PeakFreq": 0.1
+    },
+    "Y": {
+      "RMS": 4.1,
+      "Skewness": 0.2,
+      "Kurtosis": 2.5,
+      "PeakToPeak": 1.0,
+      "SRA": 4.1,
+      "CrestFactor": 1.1,
+      "ShapeFactor": 1.0,
+      "ImpulseFactor": 1.1,
+      "ClearanceFactor": 1.1,
+      "TotalEnergy": 0.0,
+      "BandEnergy_0_500": 0.0,
+      "BandEnergy_500_1000": 0.0,
+      "BandEnergy_1000_2000": 0.0,
+      "FreqCentroid": 723.4,
+      "PeakAmp": 0.1,
+      "PeakFreq": 0.1
+    },
+    "Z": {
+      "RMS": 0.7,
+      "Skewness": 0.2,
+      "Kurtosis": 1.8,
+      "PeakToPeak": 1.5,
+      "SRA": 0.6,
+      "CrestFactor": 1.9,
+      "ShapeFactor": 1.2,
+      "ImpulseFactor": 2.3,
+      "ClearanceFactor": 2.6,
+      "TotalEnergy": 0.3,
+      "BandEnergy_0_500": 0.3,
+      "BandEnergy_500_1000": 0.0,
+      "BandEnergy_1000_2000": 0.0,
+      "FreqCentroid": 693.8,
+      "PeakAmp": 0.4,
+      "PeakFreq": 0.1
+    }
+  },
+  "temperature": {
+    "Mean": 24.0,
+    "Min": 24.0,
+    "Max": 24.0,
+    "Std": 0.0
+  }
+}

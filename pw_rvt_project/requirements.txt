@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+psycopg2-binary
+pyserial
+pymodbus==2.5.3
+fastmcp
